@@ -38,11 +38,9 @@
             font-size:1.1em;
         }
         figure {
-            width:10%;
-            margin-top:0px;
-            position:relative;
-            top:-395px;
-            left:0px;
+
+            margin-top: 0px;
+    position: relative;
         }
         .booth-types {
              
@@ -242,7 +240,7 @@
                     }
                  #prices-info {
                      position:relative;
-                     top:400px;
+                     top:30px;
                      left:25%;
                      z-index:9;
                      margin-right:50%;
@@ -481,7 +479,7 @@
                     }
                  #prices-info {
                      position:relative;
-                     top:30px;
+                     top:400px;
                      left:25%;
                      z-index:9;
                      margin-right:50%;
