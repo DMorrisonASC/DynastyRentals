@@ -1,1 +1,1 @@
-# DynastyRentals - A party equipment rental comapny. They rent photo-booths, props etc.
+# DynastyRentals - A party equipment rental company. They rent photo-booths, props etc.
