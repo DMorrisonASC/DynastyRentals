@@ -231,11 +231,9 @@
                     
                  #prices{
                         position:relative;
-                        left:42%;
                         font-style:italic;
                         font-weight:900;
                         text-decoration:underline;
-                        margin-right:50%;
                         text-align: center;
                     }
                  #prices-info {
@@ -480,9 +478,7 @@
                  #prices-info {
                      position:relative;
                      top:400px;
-                     left:25%;
                      z-index:9;
-                     margin-right:50%;
                        
                  }
                  
